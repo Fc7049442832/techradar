@@ -160,7 +160,7 @@
               <div class="text-1">Hello, This is</div>
               <div class="text-2">Shivam chourashiya</div>
               <div class="text-3">And I'm a Software engineer <span class="typing"></span></div>
-              <a href="#">Hire me</a>
+              <a href="#">Hired</a>
             </div>
           </div>
         </section>
