@@ -374,7 +374,7 @@
                     <i class="fa-solid fa-envelope"></i>
                     <div class="info">
                       <div class="head">Email</div>
-                      <div class="sub-title"><a href="mailto:#" style="text-decoration: none; color: #333;"> Alokrewa1998@gmail.com</a></div>
+                      <div class="sub-title"><a href="mailto:#" style="text-decoration: none; color: #333;"> Shivam@techradar.site</a></div>
                     </div>
                   </div>
       
